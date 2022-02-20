@@ -5,6 +5,6 @@ I am a student at University of Guelph, majoring in Computer Science and minorin
 ## Social Links 💬:
 
 <a href="https://www.linkedin.com/in/arshiasandhu/">
-  <img align="left" alt="Linkedin" width="22px" color:"white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" color:"#222" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
