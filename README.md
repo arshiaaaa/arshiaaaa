@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Arshia Sandhu. 👋
+
+I am a student at University of Guelph, majoring in Computer Science and minoring in Project Manegement.
 
 <!--
 **arshiaaaa/arshiaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
