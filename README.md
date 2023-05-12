@@ -1,6 +1,6 @@
 ### Hi there, I am Arshia Sandhu. 👋
 
-I am a student at University of Guelph, majoring in Computer Science and minoring in Project Manegement.
+I am a student at University of Guelph, persuing a major in Computer Science and a minor in Project Manegement.
 
 **Languages and Tools:**  
 <br>
