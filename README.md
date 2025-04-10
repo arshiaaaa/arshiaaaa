@@ -1,18 +1,17 @@
-### Hi there, I am Arshia Sandhu. 👋
+***Hi there, I'm Arshia Sandhu! 👋***
 
-I am a student at University of Guelph, persuing a major in Computer Science and a minor in Project Manegement.
+💻 Computer Science Major | 📈 Project Management Minor | 🎨 UX/UI Enthusiast
+<br>🌱 Passionate about sustainable tech, user-centered design, and building digital experiences that make a difference.
+
+**🎓 Education**
+<br> University of Guelph
+<br> Bachelor of Computing in Computer Science
+<br> 📍 Guelph, ON
+
 
 **Languages and Tools:**  
-<br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.pngg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+🛠️ Languages & Tools
+I'm experienced in both development and design tools, using them to bring ideas to life:
 
-
+<div align="left"> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"/></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C"/></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"/></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML"/></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS"/></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP"/></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"/></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"/></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" alt="Figma"/></code> </div>
+ 
